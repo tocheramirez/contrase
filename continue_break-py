@@ -1,0 +1,24 @@
+
+
+def run():
+    #for contador in range(1000):
+     #   if contador % 2 != 0:
+      #      continue
+       # print(contador)
+
+
+
+      # for i in range(1000):
+       # print(i)
+        #if i == 589:
+         #   break
+
+    texto=input(' escribe algo: ')
+    for letra in texto:
+        if letra =='o':
+            continue
+        print(letra)
+
+
+if __name__=='__main__':
+    run()

@@ -1,0 +1,9 @@
+{
+    "vscode-pets.position": "explorer",
+    "editor.snippetSuggestions": "none",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "python.terminal.executeInFileDir": true,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "git.showCommitInput": false
+}
